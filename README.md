@@ -34,6 +34,7 @@
 - [nansen.ai](https://nansen.ai)
 - [onchainrisk.io](https://onchainrisk.io) - multi-chain wallet analysis, risk scoring, fund flow tracing
 - [rektradar.io](https://rektradar.io/) - Ethereum scam detector with mempool monitoring, deployer-graph clustering and factory-pattern detection. Surfaces 80+ on-chain flags per contract, groups related scams by common funder, free unlimited web checks.
+- [Inception Flap Scanner](https://lucace-inception-flap-scanner.hf.space) ([GitHub](https://github.com/Lukecele/inception-flap-scanner)) - Real-time on-chain token launch screener and 4-tier contract security auditor on BNB Smart Chain. Detects predatory transfer taxes (≤8% threshold), verifies ERC-1167 minimal proxy bytecode, screens social media phishing clones, and traces deployer wallet clustering.
 - [metasleuth.io](https://metasleuth.io)
 - [rolod0x.io](https://rolod0x.io/) - private open source address book, works on any site/chain
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
